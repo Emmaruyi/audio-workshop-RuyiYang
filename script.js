@@ -1,1 +1,1 @@
-console.log("Script start")
+console.log("Script start");
